@@ -3,7 +3,7 @@
 
 React Native Developer with 2.5 years of experience. Expert in architecting resilient mobile applications for iOS and Android platforms. Optimizes app performance by up to 90%, creates reusable components, and ensures seamless UI/UX. Skilled in harnessing React Native's capabilities, collaborating within cross-functional teams, and delivering scalable mobile app solutions. Proven track record of meeting corporate objectives and exceeding client expectations through innovative and efficient development practices.
 
-### PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 #### Intenics Pvt Ltd, Jabalpur, Madhya Pradesh
 **Software Engineer**  
