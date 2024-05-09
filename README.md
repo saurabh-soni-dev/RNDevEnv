@@ -6,7 +6,7 @@ React Native Developer with 2.5 years of experience. Expert in architecting resi
 ## PROFESSIONAL EXPERIENCE
 
 #### Intenics Pvt Ltd, Jabalpur, Madhya Pradesh
-**Software Engineer**  
+*Software Engineer*
 *Dec 2021 - March 2023 (1.4 Year)*
 - Developed the [CONSOFT App](https://play.google.com/store/apps/details?id=com.consoftapp), a MERN stack application, achieving a 30% enhancement in construction site oversight.
 - Elevated application interactivity and visual appeal by 25% through advanced front-end proficiency.
