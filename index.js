@@ -1,1 +1,1 @@
-console.log("Hello first commit")
+const text = 'Helllo!'
