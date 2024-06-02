@@ -3,4 +3,4 @@
 
 // Android - 
 // npx react-native bundle --platform android --dev false --entry-file ./index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res/ --sourcemap-output ./android/app/src/main/assets/index.android.map
-
+// Note: if its give assets error - then we need to add assets folder inside main//
